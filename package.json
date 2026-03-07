@@ -1,0 +1,16 @@
+{
+  "name": "calculatrice-tp",
+  "version": "1.0.0",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "node serveur.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.3"
+  }
+}
